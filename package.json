@@ -1,0 +1,24 @@
+{
+  "name": "react-prac",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000a\u0000c\u0000t\u0000-\u0000P\u0000r\u0000a\u0000c\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "serve": "npx vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmadAA/React-Prac2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmadAA/React-Prac2/issues"
+  },
+  "homepage": "https://github.com/EmadAA/React-Prac2#readme"
+}
